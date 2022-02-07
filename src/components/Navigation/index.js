@@ -4,8 +4,8 @@ import { NavLink } from "react-router-dom";
 
 function Navigation() {
   return (
-    <div>
-      <Navbar expand="lg" bg="dark" sticky="top">
+    <div className="navbar-sticky">
+      <Navbar className="navbar-sticky" expand="lg" bg="dark" sticky="top">
         <NavLink className="nav-link" to="/about">
           <div class="text-light">
             <h4 class="nav-title-font">Kenechukwu Ilochonwu</h4>
