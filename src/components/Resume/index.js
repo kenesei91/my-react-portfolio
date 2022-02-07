@@ -37,7 +37,7 @@ function Resume() {
             <li>MongoDB, Mongoose, NoSQL</li>
             <li>SQL, MYSQL, GRAPHQL</li>
             <li>React.js, IndexedDB</li>
-            <li>GitHub, Heroku</li>
+            <li>Git, Heroku</li>
           </ul>
         </div>
       </div>

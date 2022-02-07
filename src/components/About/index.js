@@ -19,10 +19,8 @@ function About() {
         </p>
         <p>
           At the time of reviewing this portfolio, Ken would have completed a 6
-          month journey to becoming a full stack web developer, and by the end
-          of this program, he would have acquired the necessary skills and
-          knowledge to effeciently create and improve world wide web
-          applications.
+          month bootcamp journey as a full stack web developer, where he would have acquired the necessary skills and
+          knowledge to effeciently create and improve world wide web applications.
         </p>
       </div>
     </section>
