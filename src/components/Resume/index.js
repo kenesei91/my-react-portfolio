@@ -66,7 +66,7 @@ function Resume() {
         <div>
           <h2 className="top-title">Certificate</h2>
           <ul>
-            <li>The University of Texas, Austin</li>
+            <li>The University of Texas, Austin: Bootcamp</li>
             <li>Center for Professional Education (CPE)</li>
           </ul>
         </div>
