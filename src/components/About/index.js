@@ -9,7 +9,7 @@ function About() {
       <div>
         <img class="mb-5" id="avatar" src={photo} alt="profile" />
         <p>
-          Kenechukwu Ilochonw, also known as Ken by his close friends is
+          Kenechukwu Ilochonwu, also known as Ken by his close friends is
           working as an Environmental Specialist, specifically tasked to ensure
           the protection and conservation of natural resources as well as
           establishing best practices to resolve complex issues. Ken believes
