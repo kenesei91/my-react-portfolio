@@ -8,7 +8,7 @@
     "topics": "Built with HTML, CSS, javascript"
   },
   {
-    "id": 1,
+    "id": 2,
     "name": "Project Management App",
     "image": "https://www.ipma.world/assets/Dollarphotoclub_65655745-1.jpg",
     "github": "https://github.com/Sethhixon92/Anansi",
@@ -16,7 +16,7 @@
     "topics": "Built with MYSQL, CSS, JavaScript, Node.js, Express.js, Handlebars, Nodemon"
   },
   {
-    "id": 1,
+    "id": 3,
     "name": "Weather Dashboard App",
     "image": "https://raw.githubusercontent.com/AllysonMcGrath/gale-weather-app/main/public/image/Gale-screen-shot.jpg",
     "github": "https://github.com/AllysonMcGrath/gale-weather-app",
@@ -24,7 +24,7 @@
     "topics": "Built with React, GRAPHQL, JavaScript, Node.js, Express.js, MongoDB, Mongoose ODM, JWT, Material UI, Open Weather map"
   },
   {
-    "id": 2,
+    "id": 4,
     "name": "Budget Tracker",
     "image": "https://raw.githubusercontent.com/kenesei91/budget-tracker/main/demo/budget-screenshot.png",
     "github": "https://github.com/kenesei91/budget-tracker",
@@ -32,7 +32,7 @@
     "topics": "Built with node, express, javascript, mongoDB, mongoose, nodemon"
   },
   {
-    "id": 2,
+    "id": 5,
     "name": "Note Taker",
     "image": "https://github.com/kenesei91/note-taker/raw/main/public/assets/images/screenshot_2.png",
     "github": "https://github.com/kenesei91/note-taker",
@@ -40,7 +40,7 @@
     "topics": "Built with node, express, javascript, mongoDB, mongoose, nodemon"
   },
   {
-    "id": 3,
+    "id": 6,
     "name": "Pizza Hunt",
     "image": "https://github.com/kenesei91/pizza-hunt/raw/main/screenshot.png",
     "github": "https://github.com/kenesei91/pizza-hunt",
